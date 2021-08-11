@@ -6,3 +6,8 @@
     background-color: lightgray;
     border: solid 1px darkgray
 }
+
+:root {
+    --primary: #1eccac;
+    --leadFont: 2.0rem;
+}
