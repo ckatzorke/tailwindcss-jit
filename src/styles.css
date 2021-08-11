@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.testing {
+    background-color: lightgray;
+    border: solid 1px darkgray
+}
